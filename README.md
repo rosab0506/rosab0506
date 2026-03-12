@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <!-- Profile Image -->
 <p textAlign="center">
-  <img src="https://github.com/your-username/your-repo/blob/main/profile-image.png?raw=true" width="150" alt="Profile Image">
+  <img src="./img/background.jpg" width="150" alt="Profile Image">
 </p>
 
 ---
