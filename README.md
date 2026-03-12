@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 </p> -->
 
 <p textaAlign="center">
-  <img src="./img/background.jpg" width="100%" height="200" alt="Wide Banner Image">
+  <img src="./img/background.jpg" width="100%" height="300" alt="Wide Banner Image">
 </p>
 
 ---
