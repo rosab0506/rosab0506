@@ -71,16 +71,21 @@ Here are some ideas to get you started:
 <!-- Contact / Social Links -->
 ## Connect with Me
 <p textAlign="center">
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+  <!-- <a href="https://linkedin.com/in/your-linkedin" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-333333?style=flat-square&logo=linkedin" alt="LinkedIn">
   </a>
   <a href="https://twitter.com/your-twitter" target="_blank">
     <img src="https://img.shields.io/badge/-Twitter-333333?style=flat-square&logo=twitter" alt="Twitter">
-  </a>
-  <a href="mailto:your-email@example.com" target="_blank">
+  </a> -->
+  <a href="mailto:rosab0506@outlook.com" target="_blank">
     <img src="https://img.shields.io/badge/-Email-333333?style=flat-square&logo=gmail" alt="Email">
   </a>
 </p>
+
+
+## Let's Get Connected
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue)](https://my-portfolio.com)
+[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:rosab0506@outlook.com)
 
 ---
 
