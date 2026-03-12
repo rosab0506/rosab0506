@@ -20,8 +20,12 @@ Here are some ideas to get you started:
 <h3 textAlign="center">A passionate developer building projects and exploring new technologies</h3>
 
 <!-- Profile Image -->
-<p textAlign="center">
+<!-- <p textAlign="center">
   <img src="./img/background.jpg" width="150" alt="Profile Image">
+</p> -->
+
+<p textaAlign="center">
+  <img src="./img/background.jpg" width="100%" alt="Wide Banner Image">
 </p>
 
 ---
