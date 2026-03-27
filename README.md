@@ -1,95 +1,103 @@
-## Hi there 👋
+<div align="center">
+  <img  src="./istockphoto-2212652208-1024x1024.jpg"  />
+</div>
 
-<!--
-**rosab0506/rosab0506** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<h1 align="left">Hello, folks</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
 
-<!-- Welcome Section -->
-<h1 textAlign="center">Hi 👋, I'm Rosa</h1>
-<h3 textAlign="center">A passionate developer building projects and exploring new technologies</h3>
+<h3 align="left">My name is Rosa Baker,<br>I'm a Senior Web Developer, Programmer <br> and Cyber Security Expert from Dhaka, Bangladesh. <br>I love logical things.<br>You can connect with me on:</h3>
 
-<!-- Profile Image -->
-<!-- <p textAlign="center">
-  <img src="./img/background.jpg" width="150" alt="Profile Image">
-</p> -->
 
-<p textaAlign="center">
-  <img src="./img/background.jpg" width="100%" height="300" alt="Wide Banner Image">
-</p>
+###
 
----
-
-<!-- About Me -->
-## About Me
-- 🌱 I’m currently learning **modern web development, cloud, and AI technologies**
-- 💻 I love **building projects** that solve real problems
-- 📫 How to reach me: **your-email@example.com**
-- ⚡ Fun fact: I enjoy experimenting with **open-source tools and innovative tech**
-
----
-
-<!-- Skills / Tech Stack -->
-## Skills & Technologies
-### Programming Languages
-![Python](https://img.shields.io/badge/-Python-333333?style=flat-square&logo=python&logoColor=FFD43B)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat-square&logo=javascript)
-![Java](https://img.shields.io/badge/-Java-333333?style=flat-square&logo=java&logoColor=007396)
-
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/-React-333333?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat-square&logo=node.js)
-![Django](https://img.shields.io/badge/-Django-333333?style=flat-square&logo=django)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/-Git-333333?style=flat-square&logo=git)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat-square&logo=docker)
-![AWS](https://img.shields.io/badge/-AWS-333333?style=flat-square&logo=amazon-aws)
-
----
-
-<!-- Projects Section -->
-## My Projects
-| Project | Description | Link |
-| ------- | ----------- | ---- |
-| **Project 1** | A web app to manage tasks efficiently | [GitHub](https://github.com/your-username/project-1) |
-| **Project 2** | An AI-powered chatbot for learning | [GitHub](https://github.com/your-username/project-2) |
-| **Project 3** | Portfolio website showcasing my work | [Live Demo](https://your-username.github.io/) |
-
----
-
-<!-- Contact / Social Links -->
-## Connect with Me
-<p textAlign="center">
-  <!-- <a href="https://linkedin.com/in/your-linkedin" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-333333?style=flat-square&logo=linkedin" alt="LinkedIn">
+<div align="left">
+  <a href="rosab1117@outlook.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="30" alt="gmail logo"  />
   </a>
-  <a href="https://twitter.com/your-twitter" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-333333?style=flat-square&logo=twitter" alt="Twitter">
+  <!-- <a href="https://www.facebook.com/t4sn33m.s4h4t/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=flat" height="30" alt="facebook logo"  />
   </a> -->
-  <a href="mailto:rosab0506@outlook.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Email-333333?style=flat-square&logo=gmail" alt="Email">
+  <!-- <a href="https://www.linkedin.com/in/tasneem-sahat/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="30" alt="linkedin logo"  />
+  </a> -->
+  <!-- <a href="https://x.com/TasneemSahat" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=flat" height="30" alt="twitter logo"  />
+  </a> -->
+  <a href="https://t.me/rosar1117" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=flat" height="30" alt="telegram logo"  />
   </a>
-</p>
+  <!-- <a href="https://medium.com/@mdsahat6397" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=flat" height="30" alt="medium logo"  />
+  </a> -->
+  <!-- <a href="https://www.hackerrank.com/profile/mdsahat6397" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=flat" height="30" alt="hackerrank logo"  />
+  </a> -->
+  <!-- <a href="https://tryhackme.com/r/p/mdsahat6397" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=TryHackMe&logo=tryhackme&label=&color=88cc14&logoColor=white&labelColor=&style=flat" height="30" alt="tryhackme logo"  />
+  </a> -->
+  <!-- <a href="https://stackoverflow.com/users/15680800/tasneem-sahat" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=flat" height="30" alt="stackoverflow logo"  />
+  </a> -->
+</div>
 
 
-## Let's Get Connected
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue)](https://my-portfolio.com)
-[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:rosab0506@outlook.com)
+<h4 align="left">Call me directly: +358 41 3620795</h4>
 
----
+###
 
-<!-- Optional Fun GIF or Banner -->
-<p textAlign="center">
-  <img src="https://github.com/your-username/your-repo/blob/main/banner.gif?raw=true" width="600" alt="Fun Banner">
-</p>
+<h1 align="left">⚙️Technologies & Tools</h1>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="55" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="55" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="55" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="55" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="55" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="55" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="55" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="55" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="55" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="55" alt="django logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="55" alt="wordpress logo"  />
+</div>
+
+###
+
+<h1 align="left">✍ Blog & Writing</h1>
+
+###
+
+<h3 align="left">Apart from coding, I also maintain a blog - you can find my articles on my website at tasneemsahat.blogspot.com as well as on Medium.</h3>
+
+###
+
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=mdsahat6397&theme=moltack" alt="Layout with last medium posts"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=t4sn33m-s4h4t&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=highcontrast&locale=en&hide_border=true&order=1" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=t4sn33m-s4h4t&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=highcontrast&hide_border=true&order=2" height="180" alt="languages graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=t4sn33m-s4h4t&theme=matrix&column=4&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=t4sn33m-s4h4t&radius=16&theme=high-contrast&area=true&order=5&hide_border=true" height="200" alt="activity-graph graph"  />
+  <img src="https://streak-stats.demolab.com?user=t4sn33m-s4h4t&locale=en&mode=weekly&theme=highcontrast&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="200" alt="streak graph"  />
+</div>
+
+###
