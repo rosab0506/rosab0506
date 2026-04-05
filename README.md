@@ -8,7 +8,7 @@
 
 ###
 
-<h3 align="left">My name is Rosa Baker,<br>I'm a Senior Web Developer, Programmer <br> and Cyber Security Expert from Dhaka, Bangladesh. <br>I love logical things.<br>You can connect with me on:</h3>
+<h3 align="left">My name is Rosa Baker,<br>I'm a Senior Web Developer, Programmer <br> and I am from Helsinki, Finland. <br>I love logical things.<br>You can connect with me on:</h3>
 
 
 ###
