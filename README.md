@@ -8,13 +8,13 @@
 
 ###
 
-<h3 align="left">My name is Rosa Baker,<br>I'm a Senior Web Developer, Programmer <br> and I am from Helsinki, Finland. <br>I love logical things.<br>You can connect with me on:</h3>
+<h3 align="left">My name is Rosa Baker,<br>I'm a Web Developer, Programmer <br> and I am from Chansha, China. <br>I love logical things.<br>You can connect with me on:</h3>
 
 
 ###
 
 <div align="left">
-  <a href="rosab1117@outlook.com" target="_blank">
+  <a href="rosarbaker8@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="30" alt="gmail logo"  />
   </a>
   <!-- <a href="https://www.facebook.com/t4sn33m.s4h4t/" target="_blank">
@@ -26,7 +26,7 @@
   <!-- <a href="https://x.com/TasneemSahat" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=flat" height="30" alt="twitter logo"  />
   </a> -->
-  <a href="https://t.me/rosar1117" target="_blank">
+  <a href="https://t.me/rosab1117" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=flat" height="30" alt="telegram logo"  />
   </a>
   <!-- <a href="https://medium.com/@mdsahat6397" target="_blank">
