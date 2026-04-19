@@ -1,14 +1,20 @@
+<style>
+  .big-text {
+    font-size: 20px;
+  }
+</style>
+
 <div align="center">
   <img  src="./istockphoto-2212652208-1024x1024.jpg"  />
 </div>
 
 ###
 
-<p align="left">Hello, folks</p>
+<p align="left" class="big-text">Hello, folks</p>
 
 ###
 
-<h3 align="left">My name is Rosa Baker,<br>I'm a Web Developer, Programmer <br> and I am from Chansha, China. <br>I love logical things.<br>You can connect with me on:</h3>
+<p align="left">My name is Rosa Baker,<br>I'm a Web Developer, Programmer <br> and I am from Chansha, China. <br>I love logical things.<br>You can connect with me on:</p>
 
 
 ###
@@ -82,8 +88,8 @@
 
 ###
 
-<h3 align="left">Senior Web Developer with 6 years of practical experience developing and maintaining web applications across both backend and frontend systems. I specialize in backend technologies including Node.js, Laravel, Nest.js, and Python, with solid experience in designing RESTful APIs, handling data processing, and managing databases. I am also skilled in frontend development using React, Vue.js, Angular, and TypeScript, focusing on building clean and user-friendly interfaces. I have experience integrating frontend
-and backend components to ensure stable and consistent application performance.I work effectively in collaborative environments and Communicate clearly with cross-functional teams. I am comfortable using tools like Git and maintaining structured codebases to improve and extend existing applications. I focus on writing maintainable code and delivering reliable, practical solutions in real-world projects.</h3>
+<p align="left">Senior Web Developer with 6 years of practical experience developing and maintaining web applications across both backend and frontend systems. I specialize in backend technologies including Node.js, Laravel, Nest.js, and Python, with solid experience in designing RESTful APIs, handling data processing, and managing databases. I am also skilled in frontend development using React, Vue.js, Angular, and TypeScript, focusing on building clean and user-friendly interfaces. I have experience integrating frontend
+and backend components to ensure stable and consistent application performance.I work effectively in collaborative environments and Communicate clearly with cross-functional teams. I am comfortable using tools like Git and maintaining structured codebases to improve and extend existing applications. I focus on writing maintainable code and delivering reliable, practical solutions in real-world projects.</p>
 
 ###
 <!-- 
