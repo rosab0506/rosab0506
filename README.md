@@ -1,9 +1,3 @@
-<style>
-  .big-text {
-    font-size: 30px;
-  }
-</style>
-
 <div align="center">
   <img  src="./istockphoto-2212652208-1024x1024.jpg"  />
 </div>
