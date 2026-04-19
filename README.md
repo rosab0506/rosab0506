@@ -78,26 +78,29 @@
 
 ###
 
-<h1 align="left">✍ Blog & Writing</h1>
+<h1 align="left">✍ About Me</h1>
 
 ###
 
-<h3 align="left">Apart from coding, I also maintain a blog - you can find my articles on my website at tasneemsahat.blogspot.com as well as on Medium.</h3>
+<h3 align="left">Senior Web Developer with 6 years of practical experience developing and maintaining web applications across both backend and frontend systems. I specialize in backend technologies including Node.js, Laravel, Nest.js, and Python, with solid experience in designing RESTful APIs, handling data processing, and managing databases. I am also skilled in frontend development using React, Vue.js, Angular, and TypeScript, focusing on building clean and user-friendly interfaces. I have experience integrating frontend
+and backend components to ensure stable and consistent application performance.I work effectively in collaborative
+environments and Communicate clearly with cross-functional teams. I am comfortable using tools like Git and maintaining
+structured codebases to improve and extend existing applications. I focus on writing maintainable code and delivering reliable, practical solutions in real-world projects.</h3>
 
 ###
-
+<!-- 
 <div align="center">
   <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=mdsahat6397&theme=moltack" alt="Layout with last medium posts"  />
-</div>
+</div> -->
 
 ###
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=t4sn33m-s4h4t&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=highcontrast&locale=en&hide_border=true&order=1" height="180" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=t4sn33m-s4h4t&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=highcontrast&hide_border=true&order=2" height="180" alt="languages graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=t4sn33m-s4h4t&theme=matrix&column=4&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=t4sn33m-s4h4t&radius=16&theme=high-contrast&area=true&order=5&hide_border=true" height="200" alt="activity-graph graph"  />
   <img src="https://streak-stats.demolab.com?user=t4sn33m-s4h4t&locale=en&mode=weekly&theme=highcontrast&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="200" alt="streak graph"  />
-</div>
+</div> -->
 
 ###
