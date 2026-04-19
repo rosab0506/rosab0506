@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="left">Hello, folks</h1>
+<p align="left">Hello, folks</p>
 
 ###
 
@@ -44,7 +44,7 @@
 </div>
 
 
-<h4 align="left">Call me directly: +358 41 3620795</h4>
+<!-- <h4 align="left">Call me directly: +358 41 3620795</h4> -->
 
 ###
 
@@ -83,9 +83,7 @@
 ###
 
 <h3 align="left">Senior Web Developer with 6 years of practical experience developing and maintaining web applications across both backend and frontend systems. I specialize in backend technologies including Node.js, Laravel, Nest.js, and Python, with solid experience in designing RESTful APIs, handling data processing, and managing databases. I am also skilled in frontend development using React, Vue.js, Angular, and TypeScript, focusing on building clean and user-friendly interfaces. I have experience integrating frontend
-and backend components to ensure stable and consistent application performance.I work effectively in collaborative
-environments and Communicate clearly with cross-functional teams. I am comfortable using tools like Git and maintaining
-structured codebases to improve and extend existing applications. I focus on writing maintainable code and delivering reliable, practical solutions in real-world projects.</h3>
+and backend components to ensure stable and consistent application performance.I work effectively in collaborative environments and Communicate clearly with cross-functional teams. I am comfortable using tools like Git and maintaining structured codebases to improve and extend existing applications. I focus on writing maintainable code and delivering reliable, practical solutions in real-world projects.</h3>
 
 ###
 <!-- 
