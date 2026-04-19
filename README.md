@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left" class="big-text">Hello, folks</p>
+<h3 align="left" class="big-text">Hello, folks</h3>
 
 ###
 
