@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">My name is Rosa Baker,<br>I'm a Web Developer, Programmer <br> and I am from Chansha, China. <br>I love logical things.<br>You can connect with me on:</p>
+<p align="left">My name is Xin Yao Lee,<br>I'm a Web Developer, Programmer <br> and I am from Chansha, China. <br>I love logical things.<br>You can connect with me on:</p>
 
 
 ###
